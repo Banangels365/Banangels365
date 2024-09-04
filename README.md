@@ -21,4 +21,4 @@ My knowledge and areas of expertise are continually updated to meet the new dema
 - 😄 Pronouns: He / Him / His
 
 ## 📫 Feel free to connect with me on
-![LinkedIn-pic](https://github.com/user-attachments/assets/00c6acfa-37fc-439a-9d7c-2c660aacab8d)
+<a href="https://www.linkedin.com/in/angelesbanakantep/">![](images/LinkedIn-pic.svg)</a>
