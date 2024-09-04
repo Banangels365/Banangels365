@@ -23,3 +23,4 @@ My knowledge and areas of expertise are continually updated to meet the new dema
 ## 📫 Feel free to connect with me on
 <a href="https://www.linkedin.com/in/angelesbanakantep/" target="_blank"><img src="images/LinkedIn-pic.svg"></a>
 <a href="https://app.pluralsight.com/profile/Banangels" target="_blank"><img src="images/pluralsight-pic.jpg" width="120px" ></a>
+<a href="https://learn.microsoft.com/en-us/users/banangels/transcript/vm94mt6mnxzn2lk?tab=credentials-tab&source=docs" target="_blank"><img src="images/microsoft-learn.png" width="140px" ></a>
