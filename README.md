@@ -13,7 +13,7 @@ My knowledge and areas of expertise are continually updated to meet the new dema
 - Microsoft Windows Server Management
 - Project Management​ (SCRUM, PRINCE2)
 
-## About this workplace
+## About me
 - 🔭 I’m currently working on IaC, Azure terraform, Azure DevOps et GitHub.
 - 🌱 I’m currently learning Terraform, Azure Bicep.
 - 👯 I’m looking to collaborate on everything related to IaC, M365 Services, Server Management.
