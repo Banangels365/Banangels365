@@ -19,6 +19,6 @@ My knowledge and areas of expertise are continually updated to meet the new dema
 - 👯 I’m looking to collaborate on everything related to IaC, M365 Services, Server Management.
 - 💬 Ask me about everything related to IaC, M365 Services, Server Management.
 - 😄 Pronouns: He / Him / His
-- ⚡ Fun fact: ...
 
 ## 📫 Feel free to connect with me on
+![LinkedIn-pic](https://github.com/user-attachments/assets/00c6acfa-37fc-439a-9d7c-2c660aacab8d)
