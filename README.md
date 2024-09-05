@@ -18,7 +18,7 @@ My knowledge and areas of expertise are continually updated to meet the new dema
 - 🌱 I’m currently learning Terraform, Azure Bicep.
 - 👯 I’m looking to collaborate on everything related to IaC, M365 Services, Server Management.
 - 💬 Ask me about everything related to IaC, M365 Services, Server Management.
-- 😄 Pronouns: He / Him / His
+- 😄 Pronouns: He / Him 
 
 ## 📫 Feel free to connect with me on
 <a href="https://www.linkedin.com/in/angelesbanakantep/" target="_blank"><img src="images/LinkedIn-pic.svg"></a>
